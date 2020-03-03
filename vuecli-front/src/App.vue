@@ -6,10 +6,10 @@
 				<router-link to="/">首页</router-link>
 			</el-menu-item>
 			<el-submenu index="2">
-				<template slot="title"> <router-link to="/list">列表页</router-link></template>
-				<el-menu-item index="2-1">总裁办</el-menu-item>
-				<el-menu-item index="2-2">编辑部</el-menu-item>
-				<el-menu-item index="2-3">技术部</el-menu-item>
+				<template slot="title"> <router-link to="/list">列表页111</router-link></template>
+				<el-menu-item index="2-1">总裁办222</el-menu-item>
+				<el-menu-item index="2-2">编辑部333</el-menu-item>
+				<el-menu-item index="2-3">技术部444</el-menu-item>
 			</el-submenu>
 			<el-menu-item index="3">
 				<router-link to="/about">详情页</router-link>
